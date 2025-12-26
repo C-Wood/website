@@ -163,3 +163,5 @@ cython_debug/
 /.quarto/
 
 **/*.quarto_ipynb
+
+project_info.md
